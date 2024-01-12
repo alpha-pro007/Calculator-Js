@@ -1,0 +1,45 @@
+.cal-total {
+    width: 250px;
+    background-color: #323232;
+    padding: 15px;
+    margin-top: 25px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    color: white;
+    text-align: center;
+    display: block;
+    margin: 0 50px 10px 50px;
+    width: 50%;
+    font-family: sans-serif;
+}
+#display {
+    padding: 7px;
+    margin-bottom: 9px;
+    border-radius: 5px;
+    width: 95%;
+    border: 0;
+    text-align: right;
+}
+.btn {
+    border-radius: 50%;
+    border: 0;
+    width: 23.75%;
+    height: 57px;
+    background-color: #c9c4c4;
+    margin-bottom: 7px;
+}
+#eql {
+    background-color: #8ab4f8;
+}
+#c {
+    background-color: #8ab4f8;
+}
+body {
+    background-color: #8ab4f8;
+}
